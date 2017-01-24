@@ -39,10 +39,10 @@ Problems are motivated by the ones shared at:
 - [Graphics and Multimedia](https://github.com/karan/Projects#graphics-and-multimedia)
 - [Security](https://github.com/karan/Projects#security)
 
-  -[ ]Numbers
+Numbers
 ---------
 
-[ ]**Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
+**Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
 **Find e to the Nth Digit** - Just like the previous problem, but with e instead of PI. Enter a number and have the program generate e up to that many decimal places. Keep a limit to how far the program will go.
 
